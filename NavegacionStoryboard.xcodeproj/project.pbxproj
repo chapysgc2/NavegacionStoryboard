@@ -16,6 +16,7 @@
 		BA7193CF2B11618000C08D08 /* NavegacionStoryboardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7193CE2B11618000C08D08 /* NavegacionStoryboardTests.swift */; };
 		BA7193D92B11618000C08D08 /* NavegacionStoryboardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7193D82B11618000C08D08 /* NavegacionStoryboardUITests.swift */; };
 		BA7193DB2B11618000C08D08 /* NavegacionStoryboardUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7193DA2B11618000C08D08 /* NavegacionStoryboardUITestsLaunchTests.swift */; };
+		BA7193E82B11B7E200C08D08 /* SegundoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7193E72B11B7E200C08D08 /* SegundoController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BA7193D42B11618000C08D08 /* NavegacionStoryboardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NavegacionStoryboardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA7193D82B11618000C08D08 /* NavegacionStoryboardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavegacionStoryboardUITests.swift; sourceTree = "<group>"; };
 		BA7193DA2B11618000C08D08 /* NavegacionStoryboardUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavegacionStoryboardUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BA7193E72B11B7E200C08D08 /* SegundoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegundoController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				BA7193C02B11618000C08D08 /* Assets.xcassets */,
 				BA7193C22B11618000C08D08 /* LaunchScreen.storyboard */,
 				BA7193C52B11618000C08D08 /* Info.plist */,
+				BA7193E72B11B7E200C08D08 /* SegundoController.swift */,
 			);
 			path = NavegacionStoryboard;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				BA7193BC2B11617E00C08D08 /* ViewController.swift in Sources */,
 				BA7193B82B11617E00C08D08 /* AppDelegate.swift in Sources */,
 				BA7193BA2B11617E00C08D08 /* SceneDelegate.swift in Sources */,
+				BA7193E82B11B7E200C08D08 /* SegundoController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
